@@ -4,7 +4,6 @@ import plotly.graph_objects as go
 import streamlit as st
 
 # テニスコートを描画する関数
-@st.cache
 def make_tennis_court():
     
     # figを作成
