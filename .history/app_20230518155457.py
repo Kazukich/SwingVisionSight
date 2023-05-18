@@ -1,6 +1,6 @@
 import streamlit as st
-import serve_practice_page
-import match_page
+import serve_practice_page as serve_practice_page
+import SwingVisionSight.match_page as match_page
 
 st.set_page_config(page_title="SwingVisionSight", page_icon=":tennis:",layout="wide")
 
