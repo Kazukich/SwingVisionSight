@@ -1,6 +1,5 @@
 streamlit==1.7.0
 streamlit-aggrid
-openpyxl
 plotly
 pandas
 numpy
